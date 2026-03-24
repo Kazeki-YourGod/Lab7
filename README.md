@@ -34,3 +34,6 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 Төгсбилэгт 
 ПХИ-2
 ПХИ
+
+#Өөрчлөлт 
+Өөрчилсөн шүү багш минь 
